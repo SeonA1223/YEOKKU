@@ -58,8 +58,7 @@
 
 #### 메인 페이지
 
-    <img src="./images/main.png" width="700px">
-    
+   <img src="./images/main.png" width="700px">
     
 #### 특정 나라에 지역 선택시 관광지 리스트
   
@@ -80,7 +79,7 @@
   <img src="./images/최적거리또는시간.png" width="700px">
   <img src="./images/시간계산.png" width="700px">
   
-  <핵심 구현 기술>
+  **<핵심 구현 기술>**
   - 구글 지오코딩 API를 이용해 여행지의 위도, 경도 정보 저장
   - 구글 distance Matrix API를 이용해 여행지간 이동거리와 소요시간 인접행렬 구성
   - 여러 여행지를 선택하고 시작점을 정하면 앞서 구성한 인접행렬과 외판원순회 또는 다익스트라 알고리즘을 이용해
