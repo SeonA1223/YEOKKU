@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "vue-lodash": "^2.1.2",
+    "vuedraggable": "^2.24.3"
+  }
+}
